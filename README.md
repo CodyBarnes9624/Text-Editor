@@ -8,7 +8,7 @@ This is a Progressive Web Application (PWA) that functions as a text editor. It 
 Deployed Application
 
 You can access the deployed application at the following URL:
-
+https://text-editor-1-eezc.onrender.com/
 
 GitHub Repository
 
